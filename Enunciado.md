@@ -18,6 +18,15 @@ Practicar flujo de trabajo con Git en equipo: clonado, ramas por persona, commit
 
 > Haz los pasos en el orden indicado. No hagas `git pull` de `main` hasta terminar los 3 primeros commits de tu rama: así fuerza conflictos al fusionar.
 
+### Tareas comunes
+
+> Realiza estos pasos haciendo un commit después de cada uno, y subiendo los cambios al repositorio.
+
+- Crea un archivo .txt con tu nombre y escribe dentro como te llamas.
+- Añade cual es tu color favorito.
+- Añade cual es tu deporte favorito.
+- Borra tu color favorito.
+
 ### Alumno A
 
 1. **README.md** – Cambia estas dos líneas exactas:
