@@ -1,2 +1,6 @@
-# repoCompartido-ed-dam
-Repositorio para la actividad del repo compartido
+# Proyecto Colaborativo
+Estado: borrador
+Lema: _Por definir_
+Contadores:
+- líneas totales: 0
+- colaboradores: 0
