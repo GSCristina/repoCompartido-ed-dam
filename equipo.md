@@ -1,5 +1,5 @@
 # Equipo
 - A: Programadora en proceso.
-- B: sin bio
+- B: Rafa Alcantara
 - C: sin bio
 - D: sin bio
